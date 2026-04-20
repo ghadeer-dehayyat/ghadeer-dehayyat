@@ -12,3 +12,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-3B0A45?style=flat-square&logo=jupyter&logoColor=ff69b4)
 ![Linux](https://img.shields.io/badge/Linux-1B1F3B?style=flat-square&logo=linux&logoColor=da70d6)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-2A0E3F?style=flat-square&logo=googlecolab&logoColor=ff69b4)
+<img src="https://rubenwardy.github.io/lichess_widgets/user/ghadeer_dehayyat.svg">
