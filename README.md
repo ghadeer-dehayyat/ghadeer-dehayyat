@@ -1,5 +1,5 @@
 <img width="800" height="265" alt="Image" src="https://github.com/user-attachments/assets/fc29e734-efb6-42da-8e5f-2e5780bf8e13" />
-![Skills](https://img.shields.io/badge/-SKILLS-2E1A47?style=for-the-badge&logo=star&logoColor=FF69B4)
+![Skills](https://img.shields.io/badge/-SKILLS-2E1A47?style=for-the-badge&logo=visualstudiocode&logoColor=FF69B4)
 
 ![Python](https://img.shields.io/badge/Python-1B1F3B?style=flat-square&logo=python&logoColor=ff69b4)
 ![C++](https://img.shields.io/badge/C++-2E1A47?style=flat-square&logo=cplusplus&logoColor=da70d6)
