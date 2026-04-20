@@ -12,15 +12,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-3B0A45?style=flat-square&logo=jupyter&logoColor=ff69b4)
 ![Linux](https://img.shields.io/badge/Linux-1B1F3B?style=flat-square&logo=linux&logoColor=da70d6)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-2A0E3F?style=flat-square&logo=googlecolab&logoColor=ff69b4)
-![Metrics](https://metrics.lecoq.io/USERNAME
-?template=classic
-&theme=tokyonight
-&accent=ff69b4
-&config_timezone=Asia/Riyadh
-&base=header,activity,community,repositories
-&plugin_languages=true
-&plugin_languages_limit=6
-&plugin_languages_colors=github
-&plugin_isocalendar=true
-&plugin_isocalendar_duration=half-year
-)
+![Metrics](https://metrics.lecoq.io/ghadeer-dehayyat?template=classic&theme=tokyonight&accent=ff69b4&config_timezone=Asia/Riyadh&base=header,activity,community,repositories&plugin_languages=true&plugin_languages_limit=6&plugin_languages_colors=github&plugin_isocalendar=true&plugin_isocalendar_duration=half-year)
